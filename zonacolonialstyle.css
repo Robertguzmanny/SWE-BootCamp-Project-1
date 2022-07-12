@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-image: url(images/Photos/Bahia-de-Las-Aguilas.jpg);
+  background-size: 2500px;
+}
+
+#img1,
+#img2,
+#para {
+  display: inline-block;
+  width: 400px;
+  height: 250px;
+  border: 2px solid;
+  text-align: center;
+  margin: 5px;
+  background-color: rgb(20, 192, 86);
+}
+#para {
+  font-style: italic;
+}
+.box {
+  display: inline-block;
+}
+
+#zonap,
+p1 {
+  font-style: italic;
+  text-align: left;
+}
+
+.navbar ul {
+  list-style: none;
+}
+.navbar li {
+  display: inline-block;
+  margin: 20px;
+}
+
+.navbar {
+  text-align: center;
+}
+
+#pr {
+  text-align: center;
+}

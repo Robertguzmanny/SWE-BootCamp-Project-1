@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-image: url(images/Photos/monumento-a-los-hroes-de-la-restauracion.jpg);
+}
+#img1,
+#img2,
+#para {
+  display: inline-block;
+  align-items: center;
+  width: 400px;
+  height: 250px;
+  border: 2px solid;
+  text-align: center;
+  margin: 5px;
+  background-color: rgb(20, 60, 192);
+}
+#para {
+  font-style: italic;
+}
+.box {
+  display: inline-block;
+}
+
+#zonap,
+p1 {
+  font-style: oblique;
+  text-align: left;
+}
+
+#m {
+  font-style: oblique;
+}
+
+.navbar ul {
+  list-style: none;
+}
+.navbar li {
+  display: inline-block;
+  margin: 20px;
+}
+
+.navbar {
+  text-align: center;
+}
+
+#pr {
+  text-align: center;
+}
